@@ -1,0 +1,38 @@
+{
+    "name": "MEAN satellizer"
+    , "description": ""
+    , "main": "server.js"
+    , "authors": [
+    
+  ]
+    , "license": "MIT"
+    , "keywords": [
+    "MongoDB"
+    , "Mongoose"
+    , "full"
+    , "stack"
+    , "Express"
+    , "Node"
+    , "javascript"
+    , "boilerplate"
+  ]
+    , "homepage": ""
+    , "ignore": [
+    "**/.*"
+    , "node_modules"
+    , "bower_components"
+    , "test"
+    , "tests"
+  ]
+    , "dependencies": {
+        "angular": "^1.5.8"
+        , "angular-route": "1.5.x"
+        , "angular-ui-router": "*"
+        , "bootstrap": "v4.0.0-alpha.3"
+        , "html5-boilerplate": "^5.3.0"
+        , "angular-resource": "1.5.x"
+        , "satellizer": "^0.15.4"
+        , "angular-messages": "^1.5.8"
+        , "ngstorage": "*"
+    }
+}

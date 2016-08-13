@@ -1,0 +1,11 @@
+{
+    "jscodehints.detectedExclusions": [
+        "F:/node projects/satellizer_auth_tutorial/public/bower_components/jquery/src/traversing/findFilter.js",
+        "F:/node projects/satellizer_auth_tutorial/bower_components-/jquery/dist/core/DOMEval.js",
+        "F:/node projects/satellizer_auth_tutorial/public/bower_components/jquery/src/event/focusin.js",
+        "F:/node projects/satellizer_auth_tutorial/bower_components-/jquery/src/css/var/rnumnonpx.js",
+        "F:/node projects/satellizer_auth_tutorial/bower_components-/jquery/src/css/var/swap.js",
+        "F:/node projects/satellizer_auth_tutorial/public/bower_components/jquery/src/event/support.js",
+        "F:/node projects/bookTrading-clementine/bower_components/satellizer/dist/satellizer.min.js"
+    ]
+}
