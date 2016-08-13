@@ -28,7 +28,7 @@ mainmod.config(function ($authProvider, $stateProvider, $urlRouterProvider, $loc
         .state('home', {
             url: '/'
             , controller: 'home'
-            , templateUrl: 'partials/home.html'
+            , templateUrl: '/public/partials/home.html'
         });
 
     $locationProvider.html5Mode(true);
