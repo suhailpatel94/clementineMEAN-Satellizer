@@ -1,7 +1,7 @@
 {
-    "name": "Book Trade Club"
+    "name": ""
     , "version": "1.0.1"
-    , "description": "Book Trade"
+    , "description": ""
     , "main": "server.js"
     , "keywords": [
     "MongoDB"     
